@@ -8,7 +8,7 @@ The "Loan Default Prediction" project focuses on leveraging historical data of b
 **Data Analysis and Processing:**
 1. **Data Collection and Storage:**
    - Utilized banking Customer Relationship Management (CRM) systems to gather comprehensive customer data.
-   - Analyzed, processed, and stored data in a SQL database for efficient retrieval and management.
+   - Analyzed, processed, and stored data in an SQL database for efficient retrieval and management.
 
 2. **Feature Analysis:**
    - Explored various features such as gender, marital status, income, credit history, and property area to identify key predictors of loan default.
