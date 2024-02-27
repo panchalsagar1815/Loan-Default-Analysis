@@ -1,4 +1,4 @@
-# Loan
+#
 **Project: Loan Default Prediction**
 
 **Objective:**
