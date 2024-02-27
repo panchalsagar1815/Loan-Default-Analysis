@@ -1,5 +1,4 @@
 # Loan-Default-Analysis
-
 **Project: Loan Default Prediction**
 
 **Objective:**
