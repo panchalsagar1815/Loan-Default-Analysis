@@ -1,5 +1,4 @@
-#
-**Project: Loan Default Prediction**
+# **Project: Loan Default Prediction**
 
 **Objective:**
 The "Loan Default Prediction" project focuses on leveraging historical data of bank customers to build a robust predictive model that identifies potential loan defaults. By analyzing various customer attributes such as Loan_ID, Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, Coapplicant Income, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area, and Loan_Status, the project aims to enhance the bank's risk assessment capabilities and optimize lending strategies.
